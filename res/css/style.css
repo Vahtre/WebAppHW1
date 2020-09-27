@@ -52,3 +52,7 @@ html, body {
 .box h2{
   font-size: 20px;
 }
+#Forgot:hover{
+  text-shadow: 2px 2px 5px blue;
+  transition: text-shadow 0.4s linear;
+}
